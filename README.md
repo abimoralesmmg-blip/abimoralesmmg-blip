@@ -38,7 +38,7 @@
 
 | Área | Tecnologías |
 | :--- | :--- |
-| **Lenguajes** | `Java` • `C++` • `Python` • `GLSL` • `SQL` |
+| **Lenguajes** | `Java` • `Python` • `GLSL` • `SQL` |
 | **Motores, Gráficos & Visión** | `Unreal Engine 5` • `OpenGL / ES` • `OpenCV` • `PyTorch` • `YOLO` |
 | **Backend & Frameworks** | `JavaFX` • `Scene Builder` • `Maven` • `Gradle` • `Gradio` |
 | **Bases de Datos** | `PostgreSQL` • `MySQL` • `MongoDB` • `SQLite` |
