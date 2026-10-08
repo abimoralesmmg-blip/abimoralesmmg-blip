@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Ingenier%C3%ADa+de+Software;Desarrollo+de+Videojuegos+%26+IA;Visi%C3%B3n+por+Computadora+%26+Gr%C3%A1ficos+3D;Soluciones+Full-Stack+Interactivas" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Ingenier%C3%ADa+de+Ciencias+de+la+Computación;Desarrollo+de+Videojuegos+%26+IA;Visi%C3%B3n+por+Computadora+%26+Gr%C3%A1ficos+3D;Soluciones+Full-Stack+Interactivas" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/genessis-molina-3ba776343/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
