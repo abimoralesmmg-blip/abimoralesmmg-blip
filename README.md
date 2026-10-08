@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Ingenier%C3%ADa+de+Ciencias+de+la+Computación;Desarrollo+de+Videojuegos+%26+IA;Visi%C3%B3n+por+Computadora+%26+Gr%C3%A1ficos+3D;Soluciones+Full-Stack+Interactivas" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Ingenier%C3%ADa+en+Ciencias+de+la+Computaci%C3%B3n;Desarrollo+de+Videojuegos+%26+IA;Visi%C3%B3n+por+Computadora+%26+Gr%C3%A1ficos+3D;Soluciones+Full-Stack+Interactivas" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/genessis-molina-3ba776343/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -13,10 +13,10 @@
 
 ### 📌 Sobre mí
 
-- 💻 Estudiante avanzada de **Ciencias de la Computación** enfocada en desarrollo de software interactivo, visión artificial y sistemas gráficos.
+- 💻 Estudiante avanzada de **Ciencias de la Computación** enfocada en desarrollo de software interactivo, visión artificial y computación gráfica.
 - 🎮 Experiencia en desarrollo de mecánicas, pipelines 3D y sistemas de IA en **Unreal Engine**.
 - 🔬 Desarrollo e implementación de modelos de deep learning para segmentación y visión por computadora.
-- 💡 Interesada en arquitectura de software, gráficos por computadora (OpenGL) y optimización.
+- 💡 Interesada en arquitectura de software, gráficos por computadora (OpenGL) y optimización algorítmica.
 
 ---
 
@@ -38,7 +38,7 @@
 
 | Área | Tecnologías |
 | :--- | :--- |
-| **Lenguajes** | `Java` • `Python` • `GLSL` • `SQL` |
+| **Lenguajes** | `Java`  • `Python` • `GLSL` • `SQL` |
 | **Motores, Gráficos & Visión** | `Unreal Engine 5` • `OpenGL / ES` • `OpenCV` • `PyTorch` • `YOLO` |
 | **Backend & Frameworks** | `JavaFX` • `Scene Builder` • `Maven` • `Gradle` • `Gradio` |
 | **Bases de Datos** | `PostgreSQL` • `MySQL` • `MongoDB` • `SQLite` |
